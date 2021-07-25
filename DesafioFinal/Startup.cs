@@ -1,4 +1,3 @@
-using DesafioFinal.Middleware;
 using DesafioFinal.Repositories;
 using DesafioFinal.Services;
 using Microsoft.AspNetCore.Builder;
